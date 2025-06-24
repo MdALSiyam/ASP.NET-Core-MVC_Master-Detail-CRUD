@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<h3>Student List</h3>
+<p>
+    <a href="@Url.Action("Create","Students")" class="btn btn-success">Add New Student</a>
+</p>
+<table class="table table-bordered table-hover text-center shadow-sm">
+    <thead class="table-primary">
+        <tr>
+            <th>
+                Profile Picture
+            </th>
+            <th>
+                Student Name
+            </th>
+            <th>
+                Date of Birth
+            </th>
+            <th>
+                Course Name
+            </th>
+            <th>
+                Mobile No.
+            </th>
+            <th>
+                Enrollment
+            </th>
+            <th>
+                Modules
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@Url.Content("~/images/"+item.ImageUrl)"
+                             height="80" width="70" />
+                    }
+                    else
+                    {
+                        <img src="@Url.Content("~/images/noimage.jpg")"
+                             height="80" width="70" />
+                    }
+
+                </td>
+                <td>
+
+                    @Html.DisplayFor(m => item.StudentName)
+
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Dob)
+
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Course.CourseName)
+
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.MobileNo)
+
+                </td>
+                <td>
+                    @if (item.IsEnrolled)
+                    {
+                        <span>Enrolled</span>
+                    }
+                    else
+                    {
+                        <span>Not Enrolled</span>
+                    }
+
+                </td>
+                <td>
+                    <ul>
+                        @foreach (var module in item.Moduless)
+                        {
+                            <li>@module.ModuleName - @module.Duration h</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit","Students",new {id=item.StudentId})" class="btn btn-primary">Edit</a> | 
+                    <form method="post" action="@Url.Action("Delete","Students",new {id=item.StudentId})" style="display:inline" onsubmit="return confirm('Do you want to delete this record?')">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+
+                </td>
+
+
+            </tr>
+
+        }
+    </tbody>
+
+</table>

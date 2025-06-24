@@ -1,0 +1,1773 @@
+{
+  "Version": 1,
+  "Hash": "haxcPxzqOxqsWKurCX0cX1iekTIIXvVaDpG3Zc5MRBY=",
+  "Source": "CoreMvcMasterDetailCrud",
+  "BasePath": "_content/CoreMvcMasterDetailCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreMvcMasterDetailCrud\\wwwroot",
+      "Source": "CoreMvcMasterDetailCrud",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46ein0sx1k",
+      "Integrity": "PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "63fj8s7r0e",
+      "Integrity": "3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\307ef091-7c46-4807-9d03-e54d7e13e25f.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/307ef091-7c46-4807-9d03-e54d7e13e25f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imwf27yjho",
+      "Integrity": "6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\307ef091-7c46-4807-9d03-e54d7e13e25f.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\45b4e8af-244a-4dcb-a18c-8e8a735aac48.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/45b4e8af-244a-4dcb-a18c-8e8a735aac48#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imwf27yjho",
+      "Integrity": "6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\45b4e8af-244a-4dcb-a18c-8e8a735aac48.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/5502ebbb-a4ef-437e-944c-b8c3d09f9e8c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kycr745aef",
+      "Integrity": "XEEFZ1YfggtMj12I9zGOm9H9S7S5nZq98PNBJ88Hukw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5caf2222-b483-4d9e-a529-747bb510ea60.jpg",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/5caf2222-b483-4d9e-a529-747bb510ea60#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wxcz323fi",
+      "Integrity": "bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5caf2222-b483-4d9e-a529-747bb510ea60.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gk6a5apiir",
+      "Integrity": "wNxYYGWdH8kcUeV0TPaVOpRvXsgWBdbzTW2eojQK6JM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/7d6ab597-d722-4478-90a3-5ac0dcfb34b6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ywhnp7muwu",
+      "Integrity": "jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\895f0712-b511-42c0-a791-b349179cadfb.jpg",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/895f0712-b511-42c0-a791-b349179cadfb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wxcz323fi",
+      "Integrity": "bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\895f0712-b511-42c0-a791-b349179cadfb.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9601f38b-6155-46dd-b217-e54d6c841e7f.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/9601f38b-6155-46dd-b217-e54d6c841e7f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imwf27yjho",
+      "Integrity": "6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9601f38b-6155-46dd-b217-e54d6c841e7f.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/9e2507f2-cd0f-4f2e-91fa-396f08b542f4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "62y10l1aj1",
+      "Integrity": "rmbVfansNuEBUAtMjeGf9xzKlgDbGjC3j1uFb+BPaHc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/a182f27a-61fc-446e-9a39-9c7a081a7ba6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ntkadyv1xd",
+      "Integrity": "66wkDszvHs423HcZGNtsqXPj2pxwwv3bVgIiolDNFkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\bd110054-a552-4f29-abe3-e6597bb7715c.jpg",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/bd110054-a552-4f29-abe3-e6597bb7715c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rqdy7lw002",
+      "Integrity": "E1U1MZc/QuI4jH7/B4z3opGfGRB/GHLT0mk1PnFLBI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bd110054-a552-4f29-abe3-e6597bb7715c.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/c4ec3ccb-4ec6-442f-b550-4ac3ff145abd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imwf27yjho",
+      "Integrity": "6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\fe7cc188-20a4-47eb-84bc-ecb767e469c6.png",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/fe7cc188-20a4-47eb-84bc-ecb767e469c6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ywhnp7muwu",
+      "Integrity": "jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fe7cc188-20a4-47eb-84bc-ecb767e469c6.png"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\noimage.jpg",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "images/noimage#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bppdjchf54",
+      "Integrity": "XzarDtIsyNkFVgRrlTXHRXlK9vy8hGNE+Ih4dTnwzpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\noimage.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\jquery\\jquery.min.js",
+      "SourceId": "CoreMvcMasterDetailCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\",
+      "BasePath": "_content/CoreMvcMasterDetailCrud",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "bootstrap/css/bootstrap.min.46ein0sx1k.css",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 03:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46ein0sx1k"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/css/bootstrap.min.css",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 03:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/js/bootstrap.min.63fj8s7r0e.js",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 03:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "63fj8s7r0e"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/js/bootstrap.min.js",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 03:32:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/307ef091-7c46-4807-9d03-e54d7e13e25f.imwf27yjho.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\307ef091-7c46-4807-9d03-e54d7e13e25f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:33:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imwf27yjho"
+        },
+        {
+          "Name": "label",
+          "Value": "images/307ef091-7c46-4807-9d03-e54d7e13e25f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/307ef091-7c46-4807-9d03-e54d7e13e25f.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\307ef091-7c46-4807-9d03-e54d7e13e25f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:33:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/45b4e8af-244a-4dcb-a18c-8e8a735aac48.imwf27yjho.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\45b4e8af-244a-4dcb-a18c-8e8a735aac48.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:31:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imwf27yjho"
+        },
+        {
+          "Name": "label",
+          "Value": "images/45b4e8af-244a-4dcb-a18c-8e8a735aac48.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/45b4e8af-244a-4dcb-a18c-8e8a735aac48.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\45b4e8af-244a-4dcb-a18c-8e8a735aac48.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:31:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.kycr745aef.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEEFZ1YfggtMj12I9zGOm9H9S7S5nZq98PNBJ88Hukw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 05:00:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kycr745aef"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEEFZ1YfggtMj12I9zGOm9H9S7S5nZq98PNBJ88Hukw="
+        }
+      ]
+    },
+    {
+      "Route": "images/5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEEFZ1YfggtMj12I9zGOm9H9S7S5nZq98PNBJ88Hukw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 05:00:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEEFZ1YfggtMj12I9zGOm9H9S7S5nZq98PNBJ88Hukw="
+        }
+      ]
+    },
+    {
+      "Route": "images/5caf2222-b483-4d9e-a529-747bb510ea60.2wxcz323fi.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5caf2222-b483-4d9e-a529-747bb510ea60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:30:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wxcz323fi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5caf2222-b483-4d9e-a529-747bb510ea60.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/5caf2222-b483-4d9e-a529-747bb510ea60.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5caf2222-b483-4d9e-a529-747bb510ea60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:30:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.gk6a5apiir.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNxYYGWdH8kcUeV0TPaVOpRvXsgWBdbzTW2eojQK6JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 06:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gk6a5apiir"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wNxYYGWdH8kcUeV0TPaVOpRvXsgWBdbzTW2eojQK6JM="
+        }
+      ]
+    },
+    {
+      "Route": "images/5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wNxYYGWdH8kcUeV0TPaVOpRvXsgWBdbzTW2eojQK6JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 06:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wNxYYGWdH8kcUeV0TPaVOpRvXsgWBdbzTW2eojQK6JM="
+        }
+      ]
+    },
+    {
+      "Route": "images/7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 07:50:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww="
+        }
+      ]
+    },
+    {
+      "Route": "images/7d6ab597-d722-4478-90a3-5ac0dcfb34b6.ywhnp7muwu.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 07:50:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ywhnp7muwu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww="
+        }
+      ]
+    },
+    {
+      "Route": "images/895f0712-b511-42c0-a791-b349179cadfb.2wxcz323fi.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\895f0712-b511-42c0-a791-b349179cadfb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 05:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wxcz323fi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/895f0712-b511-42c0-a791-b349179cadfb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/895f0712-b511-42c0-a791-b349179cadfb.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\895f0712-b511-42c0-a791-b349179cadfb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 05:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvqV21wDnhinlIeMLruyCtAotOaXMA0cnlo9eFLUDd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/9601f38b-6155-46dd-b217-e54d6c841e7f.imwf27yjho.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9601f38b-6155-46dd-b217-e54d6c841e7f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:29:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imwf27yjho"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9601f38b-6155-46dd-b217-e54d6c841e7f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/9601f38b-6155-46dd-b217-e54d6c841e7f.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9601f38b-6155-46dd-b217-e54d6c841e7f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 08:29:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/9e2507f2-cd0f-4f2e-91fa-396f08b542f4.62y10l1aj1.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rmbVfansNuEBUAtMjeGf9xzKlgDbGjC3j1uFb+BPaHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 04:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62y10l1aj1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rmbVfansNuEBUAtMjeGf9xzKlgDbGjC3j1uFb+BPaHc="
+        }
+      ]
+    },
+    {
+      "Route": "images/9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rmbVfansNuEBUAtMjeGf9xzKlgDbGjC3j1uFb+BPaHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 04:59:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rmbVfansNuEBUAtMjeGf9xzKlgDbGjC3j1uFb+BPaHc="
+        }
+      ]
+    },
+    {
+      "Route": "images/a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"66wkDszvHs423HcZGNtsqXPj2pxwwv3bVgIiolDNFkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 15:33:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-66wkDszvHs423HcZGNtsqXPj2pxwwv3bVgIiolDNFkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/a182f27a-61fc-446e-9a39-9c7a081a7ba6.ntkadyv1xd.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"66wkDszvHs423HcZGNtsqXPj2pxwwv3bVgIiolDNFkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 15:33:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntkadyv1xd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-66wkDszvHs423HcZGNtsqXPj2pxwwv3bVgIiolDNFkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/bd110054-a552-4f29-abe3-e6597bb7715c.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\bd110054-a552-4f29-abe3-e6597bb7715c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1U1MZc/QuI4jH7/B4z3opGfGRB/GHLT0mk1PnFLBI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 15:39:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1U1MZc/QuI4jH7/B4z3opGfGRB/GHLT0mk1PnFLBI4="
+        }
+      ]
+    },
+    {
+      "Route": "images/bd110054-a552-4f29-abe3-e6597bb7715c.rqdy7lw002.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\bd110054-a552-4f29-abe3-e6597bb7715c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1U1MZc/QuI4jH7/B4z3opGfGRB/GHLT0mk1PnFLBI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 15:39:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rqdy7lw002"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bd110054-a552-4f29-abe3-e6597bb7715c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1U1MZc/QuI4jH7/B4z3opGfGRB/GHLT0mk1PnFLBI4="
+        }
+      ]
+    },
+    {
+      "Route": "images/c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.imwf27yjho.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 09:12:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imwf27yjho"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 09:12:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6vBoX1iJIsYHe7+mwy7w6bW2qy+QhfMfHav8ZdMfhIk="
+        }
+      ]
+    },
+    {
+      "Route": "images/fe7cc188-20a4-47eb-84bc-ecb767e469c6.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\fe7cc188-20a4-47eb-84bc-ecb767e469c6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 07:52:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww="
+        }
+      ]
+    },
+    {
+      "Route": "images/fe7cc188-20a4-47eb-84bc-ecb767e469c6.ywhnp7muwu.png",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\fe7cc188-20a4-47eb-84bc-ecb767e469c6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 07:52:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ywhnp7muwu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fe7cc188-20a4-47eb-84bc-ecb767e469c6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jjA1Qy494IqpFryleKpo1lRjWfsHuu0nrTgm5ElDDww="
+        }
+      ]
+    },
+    {
+      "Route": "images/noimage.bppdjchf54.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\noimage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XzarDtIsyNkFVgRrlTXHRXlK9vy8hGNE+Ih4dTnwzpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 05:32:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bppdjchf54"
+        },
+        {
+          "Name": "label",
+          "Value": "images/noimage.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XzarDtIsyNkFVgRrlTXHRXlK9vy8hGNE+Ih4dTnwzpc="
+        }
+      ]
+    },
+    {
+      "Route": "images/noimage.jpg",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\noimage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XzarDtIsyNkFVgRrlTXHRXlK9vy8hGNE+Ih4dTnwzpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 06 Jan 2025 05:32:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XzarDtIsyNkFVgRrlTXHRXlK9vy8hGNE+Ih4dTnwzpc="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 03:33:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\jquery\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 03:33:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    }
+  ]
+}

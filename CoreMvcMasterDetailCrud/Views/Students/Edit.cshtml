@@ -1,0 +1,101 @@
+﻿@model StudentViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form id="editForm" asp-action="Edit" enctype="multipart/form-data">
+    <div class="card mt-4 shadow-sm">
+        <div class="card-header bg-info text-white">
+            <h2 class="mb-0">Update Student</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <input type="hidden" asp-for="StudentId">
+                <input type="hidden" name="OldImageUrl" value="@Model.ImageUrl">
+                <div class="col-md-6">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                    <div class="form-group mb-3">
+                        <label asp-for="StudentName" class="control-label"></label>
+                        <input asp-for="StudentName" class="form-control" />
+                        <span asp-validation-for="StudentName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Dob" class="control-label"></label>
+                        <input asp-for="Dob" class="form-control" />
+                        <span asp-validation-for="Dob" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="MobileNo" class="control-label"></label>
+                        <input asp-for="MobileNo" class="form-control" />
+                        <span asp-validation-for="MobileNo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check mb-3">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="IsEnrolled" /> @Html.DisplayNameFor(model => model.IsEnrolled)
+                        </label>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label class="control-label d-block">Profile Image</label>
+                        <input name="ProfileFile" id="ProfileFile" type="file" onchange="readUrl(this)" style="display:none;" />
+                        <div class="d-flex flex-column align-items-start">
+                            <img id="imageFile" src="~/images/noimage.jpg" class="img-thumbnail mt-2" width="125" height="125" style="border:1px;margin-top:20px;" />
+                            <button type="button" class="btn btn-secondary mt-2" onclick="document.getElementById('ProfileFile').click()">Choose File</button>
+                            <span id="fileNameDisplay" class="mt-1 text-muted">No file chosen</span>
+                        </div>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="CourseName" class="control-label"></label>
+                        <select class="form-control" asp-for="CourseId" asp-items="@(new SelectList(Model.Courses,"CourseId","CourseName"))">
+                            <option value="0">Select course</option>
+                        </select>
+                        <span asp-validation-for="CourseId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <input type="submit" value="Update" class="btn btn-primary" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <button type="button" class="btn btn-success" style="text-align:center" onclick="AddModule()">Add Module</button>
+                    <div id="modulesContainer">
+                        @Html.Partial("_ModulesTable", Model.Moduless)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <a asp-action="Index" class="btn btn-secondary float-end">Back to List</a>
+        </div>
+    </div>
+</form>
+
+<script>
+    function readUrl(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#imageFile').attr('src', e.target.result).show();
+            };
+            reader.readAsDataURL(input.files[0]);
+
+            var fileName = input.files[0].name;
+            $('#fileNameDisplay').text(fileName);
+        }
+    }
+    function DeleteItem(btn) {
+        $(btn).closest('tr').remove();
+    }
+    function AddModule() {
+        var lastRowIndex = parseInt($("#hdnLastIndex").val());
+
+        var newRow = `<tr><td>
+                <input type="text" name="Moduless[${lastRowIndex}].ModuleName" class="form-control"/>
+            </td><td>
+                <input type="number" name="Moduless[${lastRowIndex}].Duration" class="form-control"/>
+            </td><td>
+              <button onclick="DeleteItem(this)" type="button" class="btn btn-danger btn-sm">
+               Remove </button></td></tr>`;
+        $("#Exptable tbody").append(newRow);
+        $("#hdnLastIndex").val(lastRowIndex + 1);
+    }
+</script>

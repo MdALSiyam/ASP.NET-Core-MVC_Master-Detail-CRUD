@@ -1,0 +1,37 @@
+﻿@model List<CourseModule>
+<table class="table table-bordered table-sm mt-2 text-center" id="Exptable">
+    <thead class="table-secondary">
+        <tr>
+            <th>
+                Module Name
+            </th>
+            <th>
+                Duration
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>
+                    <input type="text" class="form-control" value="@Model[i].ModuleName" name="Moduless[@i].ModuleName" />
+                </td>
+                <td>
+                    <input type="number" value="@Model[i].Duration" class="form-control" name="Moduless[@i].Duration" />
+                </td>
+                <td>
+                    <button type="button" class="btn btn-danger btn-sm" onclick="DeleteItem(this)">Remove</button>
+                   @*  @if (i > 0) 
+                    {
+                       
+                    } *@
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+<input type="hidden" id="hdnLastIndex" value="@Model.Count"/>
+

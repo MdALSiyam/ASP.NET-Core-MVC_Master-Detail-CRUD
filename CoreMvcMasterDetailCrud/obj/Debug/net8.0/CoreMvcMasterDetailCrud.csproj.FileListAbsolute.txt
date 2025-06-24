@@ -1,0 +1,1028 @@
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.Development.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.endpoints.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.exe
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.deps.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.runtimeconfig.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfoInputs.cache
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfo.cs
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.CoreCompileInputs.cache
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.MvcApplicationPartsAssemblyInfo.cache
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\scopedcss\bundle\CoreMvcMasterDetailCrud.styles.css
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.development.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreMvcMasterDetailCrud.props
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreMvcMasterDetailCrud.props
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreMvcMasterDetailCrud.props
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\refint\CoreMvcMasterDetailCrud.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.genruntimeconfig.cache
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\ref\CoreMvcMasterDetailCrud.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\libman.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.runtime.json
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Core.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Identity.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Humanizer.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Common.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.CodeDom.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.AssemblyReference.cache
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cache
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cs
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcM.964703FC.Up2Date
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Drive D\Sornali1284548\Core\9-1-2025MasterDetail\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\refint\CoreMvcMasterDetailCrud.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.Development.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\libman.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.endpoints.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.runtime.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.exe
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.deps.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.runtimeconfig.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Core.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Identity.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Humanizer.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Common.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.CodeDom.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Memory.Data.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.AssemblyReference.cache
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfoInputs.cache
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfo.cs
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.CoreCompileInputs.cache
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cache
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cs
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\scopedcss\bundle\CoreMvcMasterDetailCrud.styles.css
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.development.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreMvcMasterDetailCrud.props
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreMvcMasterDetailCrud.props
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreMvcMasterDetailCrud.props
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcM.964703FC.Up2Date
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.genruntimeconfig.cache
+D:\R_61\Core\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\ref\CoreMvcMasterDetailCrud.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.Development.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\libman.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.runtime.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.endpoints.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.exe
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.deps.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.runtimeconfig.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Core.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Identity.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Humanizer.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Common.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.CodeDom.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.AssemblyReference.cache
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfoInputs.cache
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfo.cs
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.CoreCompileInputs.cache
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cache
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cs
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\scopedcss\bundle\CoreMvcMasterDetailCrud.styles.css
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.development.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreMvcMasterDetailCrud.props
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreMvcMasterDetailCrud.props
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreMvcMasterDetailCrud.props
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcM.964703FC.Up2Date
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\refint\CoreMvcMasterDetailCrud.dll
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.genruntimeconfig.cache
+E:\Round-61\Module_9\Practise\Final-7\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\ref\CoreMvcMasterDetailCrud.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.Development.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\appsettings.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\libman.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.runtime.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.staticwebassets.endpoints.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.exe
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.deps.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.runtimeconfig.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Core.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Azure.Identity.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Humanizer.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Common.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.CodeDom.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Memory.Data.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.AssemblyReference.cache
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfoInputs.cache
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.AssemblyInfo.cs
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.csproj.CoreCompileInputs.cache
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cache
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.RazorAssemblyInfo.cs
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\scopedcss\bundle\CoreMvcMasterDetailCrud.styles.css
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.development.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreMvcMasterDetailCrud.props
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreMvcMasterDetailCrud.props
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreMvcMasterDetailCrud.props
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.pack.json
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcM.964703FC.Up2Date
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\refint\CoreMvcMasterDetailCrud.dll
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.pdb
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\CoreMvcMasterDetailCrud.genruntimeconfig.cache
+E:\GitHub\Core\Core-MVC\Maam\CoreMvcMasterDetailCrudSln\CoreMvcMasterDetailCrud\obj\Debug\net8.0\ref\CoreMvcMasterDetailCrud.dll

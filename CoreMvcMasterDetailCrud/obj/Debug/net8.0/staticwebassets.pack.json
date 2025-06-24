@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\307ef091-7c46-4807-9d03-e54d7e13e25f.png",
+      "PackagePath": "staticwebassets\\images\\307ef091-7c46-4807-9d03-e54d7e13e25f.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\45b4e8af-244a-4dcb-a18c-8e8a735aac48.png",
+      "PackagePath": "staticwebassets\\images\\45b4e8af-244a-4dcb-a18c-8e8a735aac48.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png",
+      "PackagePath": "staticwebassets\\images\\5502ebbb-a4ef-437e-944c-b8c3d09f9e8c.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5caf2222-b483-4d9e-a529-747bb510ea60.jpg",
+      "PackagePath": "staticwebassets\\images\\5caf2222-b483-4d9e-a529-747bb510ea60.jpg"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5fe83687-3250-4f73-bd28-f3084389a095_Image.jpg.jpg"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png",
+      "PackagePath": "staticwebassets\\images\\7d6ab597-d722-4478-90a3-5ac0dcfb34b6.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\895f0712-b511-42c0-a791-b349179cadfb.jpg",
+      "PackagePath": "staticwebassets\\images\\895f0712-b511-42c0-a791-b349179cadfb.jpg"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9601f38b-6155-46dd-b217-e54d6c841e7f.png",
+      "PackagePath": "staticwebassets\\images\\9601f38b-6155-46dd-b217-e54d6c841e7f.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png",
+      "PackagePath": "staticwebassets\\images\\9e2507f2-cd0f-4f2e-91fa-396f08b542f4.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg",
+      "PackagePath": "staticwebassets\\images\\a182f27a-61fc-446e-9a39-9c7a081a7ba6.jpg"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\bd110054-a552-4f29-abe3-e6597bb7715c.jpg",
+      "PackagePath": "staticwebassets\\images\\bd110054-a552-4f29-abe3-e6597bb7715c.jpg"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png",
+      "PackagePath": "staticwebassets\\images\\c4ec3ccb-4ec6-442f-b550-4ac3ff145abd.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\fe7cc188-20a4-47eb-84bc-ecb767e469c6.png",
+      "PackagePath": "staticwebassets\\images\\fe7cc188-20a4-47eb-84bc-ecb767e469c6.png"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\images\\noimage.jpg"
+    },
+    {
+      "Id": "E:\\GitHub\\Core\\Core-MVC\\Maam\\CoreMvcMasterDetailCrudSln\\CoreMvcMasterDetailCrud\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreMvcMasterDetailCrud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CoreMvcMasterDetailCrud.props",
+      "PackagePath": "build\\CoreMvcMasterDetailCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreMvcMasterDetailCrud.props",
+      "PackagePath": "buildMultiTargeting\\CoreMvcMasterDetailCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoreMvcMasterDetailCrud.props",
+      "PackagePath": "buildTransitive\\CoreMvcMasterDetailCrud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
